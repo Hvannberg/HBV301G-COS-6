@@ -23,11 +23,20 @@ hvort eitthvað má bæta í hverju skjali og hvað er vel gert. Verið fagleg, 
 8. Ef það kemur samþykki frá öðrum þá sameinar **höfundur** greinina við main (merge), annars uppfærir og bíður eftir samþykki aftur
 
 ## Hópur
-Fyllið út nöfn, hlutverk og hvaða kröfur hver endurskrifar og rýnir     
-Setjið gjarnan upp sem töflu
+Ebba Þóra Hvannberg
+
+
+| Kröfunúmer | Endurskrifar        | Rýnir               |
+|------------|---------------------|---------------------|
+| FR-XX      | Ebba Þóra Hvannberg | Ebba Þóra Hvannberg |
+| FR-XX      | -                   | -                   |
+| FR-XX      | —                   | —                   |
+| FR-XX      | —                   | —                   |
+
+
 ---
 
 ## Tenglar
 
-Verkefni 1 repository  
+[Verkefni 1 repository  ](https://github.com/Hvannberg/HBV301G-COS-1.git)
 
