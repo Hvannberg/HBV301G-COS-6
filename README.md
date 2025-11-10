@@ -39,4 +39,3 @@ Ebba Þóra Hvannberg
 ## Tenglar
 
 [Verkefni 1 repository  ](https://github.com/Hvannberg/HBV301G-COS-1.git)
-
