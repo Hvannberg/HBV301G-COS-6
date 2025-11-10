@@ -5,9 +5,16 @@ _Endurbætt krafa fyrir FR-XX._
 - Upprunaleg krafa (Verkefni 1): [link hér]
 - Skráin: `requirements/FR-XX.md`
 
-## Gátreitur – Gæði kröfu (merkja eftir yfirferð)
-- [ ] Ein hugmynd (atomic)
-- [ ] ... setjið inn ykkar eigin lista 
+## Gátreitur – Gæði kröfu (rýnir merkir eftir yfirferð)
+- [ ] Heildstæð
+- [ ] Gerleg
+- [ ] Ótvíræð
+- [ ] Samkvæmt sniðmáti - Notaðu skal
+- [ ] Ein hugmynd í senn, atomic
+- [ ] Engin óljós orð
+- [ ] Lýstu hegðun kerfisins, ekki hönnun
+- [ ] Mælanleg og prófanleg
+- [ ] Skrifaðu í virku formi
 
 ## Athugasemdir rýnanda
 > Hvað er vel gert?
