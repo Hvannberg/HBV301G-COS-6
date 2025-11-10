@@ -1,6 +1,6 @@
 # HBV301G Verkefni 6 – Endurbættar virknikröfur
 
-
+TEST
 ## Workflow
 
 Hópurinn getur breytt gátreitunum í .github/pull_request_template.md áður en þið byrjið (t.d. prófanleiki, samkvæmni, mælanleiki) og í requirements/FR-XX.md 
