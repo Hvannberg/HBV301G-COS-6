@@ -39,9 +39,3 @@ Ebba Þóra Hvannberg
 ## Tenglar
 
 [Verkefni 1 repository  ](https://github.com/Hvannberg/HBV301G-COS-1.git)
-
-## Nýtt Pull Request - Mismunandi PR Request Templates 
-
-Veljið sniðmát:
-- [Almenn útgáfa](../../compare/main...feature/FR-XX?template=krafa-stutt.md)
-- [FR útgáfa](../../compare/main...feature/FR-XX?template=krafa-itarlegt.md)
