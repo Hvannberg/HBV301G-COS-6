@@ -1,6 +1,6 @@
 # Samantekt á rýni (Pull Request Comments)
 
-| Krafa | Rýnir | PR Athugasemdir | Höfundur samþykkir  |
-|--------|--------|-----------------|---------------------|
-| FR-01 | |                 |                     |
-| FR-02 | |                 |                     |
+| Krafa | Rýnir | PR Athugasemdir                                                                                                                                                                                                     | Höfundur samþykkir                                            |
+|--------|--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
+| FR-01 |Ebba Þóra Hvannberg | Vel gert: Krafan er vel skrifuð í grunninn en nokkrar endurbætur voru gerðar til að krafan uppfylli sniðmátið og hafi engin óljós orð.<br>Hvað má bæta: Endurbæturnar uppfylla öll gæðaviðmið og eru vel rökstuddar | Ebba Þóra Hvannberg <br>(væri annar nemandi í ykkar tilfelli) |
+| FR-02 | |                                                                                                                                                                                                                     |                                                               |
